@@ -2591,14 +2591,14 @@ blockJsonp(
             },
             itemTextTop: {
               content:
-                '<span style="display: block;"><span style="color: rgb(220,220,220);">Help &amp; support ㅤ</span><a  href="tel:9955590499" data-action="phone" class="ui-link"><span style="color: rgb(220,220,220);"><span style="font-weight: bold;">+1 (234) 567 89 00</span></span></a></span><span style="display: block;"><span style="color: rgb(220,220,220);">Main numberㅤ</span><a  href="tel:9955590499" data-action="phone" class="ui-link"><span style="color: rgb(220,220,220);"><span style="font-weight: bold;">+1 (234) 567 89 01</span></span></a></span><span style="display: block;"><span style="color: rgb(220,220,220);">Universities infoㅤ</span><a  href="tel:9955590499" data-action="phone" class="ui-link"><span style="color: rgb(220,220,220);"><span style="font-weight: bold;">+1 (234) 567 89 02</span></span></a></span>',
+                '<span style="display: block;"><span style="color: rgb(220,220,220);">Help &amp; support ㅤ</span><a  href="tel:9955590499" data-action="phone" class="ui-link"><span style="color: rgb(220,220,220);"><span style="font-weight: bold;">9955590499</span></span></a></span><span style="display: block;"><span style="color: rgb(220,220,220);">Main numberㅤ</span><a  href="tel:9955590499" data-action="phone" class="ui-link"><span style="color: rgb(220,220,220);"><span style="font-weight: bold;">+1 (234) 567 89 01</span></span></a></span><span style="display: block;"><span style="color: rgb(220,220,220);">Universities infoㅤ</span><a  href="tel:9955590499" data-action="phone" class="ui-link"><span style="color: rgb(220,220,220);"><span style="font-weight: bold;">+1 (234) 567 89 02</span></span></a></span>',
               type: "text",
               tagName: "p",
             },
             itemPrice: { content: "75$", type: "heading" },
             itemTextBottom: {
               content:
-                '<span style="display: block;"><span style="color: rgb(220,220,220);">Help &amp; Support ㅤ<span style="font-weight: bold;">+1 (234) 567 89 00</span></span></span><span style="display: block;"><span style="color: rgb(220,220,220);">Main numberㅤ<span style="font-weight: bold;">+1 (234) 567 89 01</span></span></span><span style="display: block;"><span style="color: rgb(220,220,220);">Universities Infoㅤ<span style="font-weight: bold;">+1 (234) 567 89 02</span></span></span>',
+                '<span style="display: block;"><span style="color: rgb(220,220,220);">Help &amp; Support ㅤ<span style="font-weight: bold;">9955590499</span></span></span><span style="display: block;"><span style="color: rgb(220,220,220);">Main numberㅤ<span style="font-weight: bold;">+1 (234) 567 89 01</span></span></span><span style="display: block;"><span style="color: rgb(220,220,220);">Universities Infoㅤ<span style="font-weight: bold;">+1 (234) 567 89 02</span></span></span>',
               type: "text",
             },
             background: { image: {}, type: "none" },
@@ -2643,7 +2643,7 @@ blockJsonp(
             itemPrice: { content: "75$", type: "heading" },
             itemTextBottom: {
               content:
-                '<span style="display: block;"><span style="color: rgb(220,220,220);">Help &amp; Support ㅤ<span style="font-weight: bold;">+1 (234) 567 89 00</span></span></span><span style="display: block;"><span style="color: rgb(220,220,220);">Main numberㅤ<span style="font-weight: bold;">+1 (234) 567 89 01</span></span></span><span style="display: block;"><span style="color: rgb(220,220,220);">Universities Infoㅤ<span style="font-weight: bold;">+1 (234) 567 89 02</span></span></span>',
+                '<span style="display: block;"><span style="color: rgb(220,220,220);">Help &amp; Support ㅤ<span style="font-weight: bold;">9955590499</span></span></span><span style="display: block;"><span style="color: rgb(220,220,220);">Main numberㅤ<span style="font-weight: bold;">+1 (234) 567 89 01</span></span></span><span style="display: block;"><span style="color: rgb(220,220,220);">Universities Infoㅤ<span style="font-weight: bold;">+1 (234) 567 89 02</span></span></span>',
               type: "text",
             },
             background: { image: {}, type: "none" },
@@ -2688,7 +2688,7 @@ blockJsonp(
             itemPrice: { content: "75$", type: "heading" },
             itemTextBottom: {
               content:
-                '<span style="display: block;"><span style="color: rgb(220,220,220);">Help &amp; Support ㅤ<span style="font-weight: bold;">+1 (234) 567 89 00</span></span></span><span style="display: block;"><span style="color: rgb(220,220,220);">Main numberㅤ<span style="font-weight: bold;">+1 (234) 567 89 01</span></span></span><span style="display: block;"><span style="color: rgb(220,220,220);">Universities Infoㅤ<span style="font-weight: bold;">+1 (234) 567 89 02</span></span></span>',
+                '<span style="display: block;"><span style="color: rgb(220,220,220);">Help &amp; Support ㅤ<span style="font-weight: bold;">9955590499</span></span></span><span style="display: block;"><span style="color: rgb(220,220,220);">Main numberㅤ<span style="font-weight: bold;">+1 (234) 567 89 01</span></span></span><span style="display: block;"><span style="color: rgb(220,220,220);">Universities Infoㅤ<span style="font-weight: bold;">+1 (234) 567 89 02</span></span></span>',
               type: "text",
             },
             background: { image: {}, type: "none" },
